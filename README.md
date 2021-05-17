@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SureshP44
 - 👀 I’m interested in working on devops.
-- 🌱 I’m currently learning Docker and kubernetes from Nana Janashia at youtube and from Stephen Grinder at Udemy.
+- 🌱 I’m currently learning Docker and kubernetes from Nana Janashia at youtube and from Stephen Grider at Udemy.
 - 📫 How to reach me on sureshperumal41@gmail.com
 
 <!---
